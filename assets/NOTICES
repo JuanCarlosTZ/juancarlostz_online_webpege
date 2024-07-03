@@ -825,9 +825,13 @@ spring_animation
 tonic
 txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 url_launcher_web
 =======
 >>>>>>> 65bf1cf (Archivos faltantes)
+=======
+url_launcher_web
+>>>>>>> ed319e6 (Ajuste reestructura)
 web_test_fonts
 web_unicode
 
@@ -7012,6 +7016,9 @@ path_provider_platform_interface
 path_provider_windows
 plugin_platform_interface
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ed319e6 (Ajuste reestructura)
 url_launcher
 url_launcher_android
 url_launcher_ios
@@ -7019,8 +7026,11 @@ url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
+<<<<<<< HEAD
 =======
 >>>>>>> 65bf1cf (Archivos faltantes)
+=======
+>>>>>>> ed319e6 (Ajuste reestructura)
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -31614,6 +31624,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ed319e6 (Ajuste reestructura)
 platform_detect
 
                                  Apache License
@@ -31819,8 +31832,11 @@ platform_detect
    limitations under the License.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 =======
 >>>>>>> 65bf1cf (Archivos faltantes)
+=======
+>>>>>>> ed319e6 (Ajuste reestructura)
 rapidjson
 
 Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip-> All rights reserved->
